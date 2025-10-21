@@ -3,7 +3,7 @@
 
 A brief description of what this project does and who it's for
 
-# 🕶️ Zelensky Jain – Indifference Is Absolute
+# 🕶️ RayBan
 
 A modern **fashion-inspired landing page** built using only **HTML** and **CSS**.  
 This project focuses on **bold typography**, **creative image layering**, and a **visually striking hero section**.  
@@ -43,7 +43,7 @@ To view this project locally:
    ```bash
    git clone https://github.com/VISHALVARUN011002/Rayban.git
 
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
 
